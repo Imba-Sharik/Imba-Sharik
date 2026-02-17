@@ -1,39 +1,15 @@
-# Hi, I'm Igor 👋
+# Hello World! I'm Igor 👋
 
 Founder & Product Developer building online education platforms.  
-Fullstack JavaScript developer focused on scalable web apps.
 
-🚀 Currently working on an international EdTech platform.
+These days I’m focused on:
+- Next.js, TypeScript, Tailwind CSS, shadcn/ui, Strapi, Claude Code
 
----
-
-### 🛠 Tech Stack
-
-**Current**
-- Next.js, React, TypeScript
-- Tailwind CSS, shadcn/ui
-- Strapi, PostgreSQL
-- Deployment: Vercel, Railway
-- Storage: AWS S3
-- Domains: GoDaddy
-- Product tools: Notion, Miro
-- AI tools: OpenAI API, Claude Code, Cursor
-
-**Previously worked with**
-- Django
-- Heroku
-- REG.RU
-- Figma
-
----
-
-### 🎯 Focus
-- EdTech products
-- Product-driven development
-- Scalable frontend architecture
+Fun Facts:
 - AI integrations
+- Lately practicing typing speed on :contentReference[oaicite:0]{index=0}  
+  Profile: https://monkeytype.com/profile/imba_sharik
+- Hobbies: anime & gym
 
+Some stuff I built:
 ---
-
-### 📫 Contact
-Telegram: https://t.me/igor_sharin
