@@ -7,8 +7,7 @@ These days I’m focused on:
 
 Fun Facts:
 - AI integrations
-- Lately practicing typing speed on :contentReference[oaicite:0]{index=0}  
-  Profile: https://monkeytype.com/profile/imba_sharik
+- Lately practicing typing speed on [Monkeytype](https://monkeytype.com/profile/imba_sharik)
 - Hobbies: anime & gym
 
 Some stuff I built:
