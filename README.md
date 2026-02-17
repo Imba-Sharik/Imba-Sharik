@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Igor 👋
 
-<!--
-**Imba-Sharik/Imba-Sharik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Product Developer building online education platforms.  
+Fullstack JavaScript developer focused on scalable web apps.
 
-Here are some ideas to get you started:
+🚀 Currently working on an international EdTech platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Current**
+- Next.js, React, TypeScript
+- Tailwind CSS, shadcn/ui
+- Strapi, PostgreSQL
+- Deployment: Vercel, Railway
+- Storage: AWS S3
+- Domains: GoDaddy
+- Product tools: Notion, Miro
+- AI tools: OpenAI API, Claude Code, Cursor
+
+**Previously worked with**
+- Django
+- Heroku
+- REG.RU
+- Figma
+
+---
+
+### 🎯 Focus
+- EdTech products
+- Product-driven development
+- Scalable frontend architecture
+- AI integrations
+
+---
+
+### 📫 Contact
+Telegram: https://t.me/igor_sharin
