@@ -11,4 +11,7 @@ Fun Facts:
 - Hobbies: anime & gym
 
 Some stuff I built:
----
+
+- **[next-strapi-starter](https://github.com/Imba-Sharik/next-strapi-starter)** — monorepo template: Next.js 16 · Auth.js v5 · Strapi 5 · Kubb · shadcn/ui  
+  `npm create next-strapi-starter my-app`
+
