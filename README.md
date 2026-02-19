@@ -15,6 +15,7 @@ Some stuff I built:
 - **[next-strapi-starter](https://github.com/Imba-Sharik/next-strapi-starter)** — full-stack monorepo template  
 Next.js 16 · Strapi 5 CMS · Auth.js v5 · Kubb (typed API) · shadcn/ui  
 Login, Register, typed API clients and FSD structure out of the box  
+Deploy-ready: Vercel (frontend) + Railway (backend/PostgreSQL)  
 `npm create next-strapi-starter my-app`
 
 
