@@ -12,6 +12,9 @@ Fun Facts:
 
 Some stuff I built:
 
-- **[next-strapi-starter](https://github.com/Imba-Sharik/next-strapi-starter)** — monorepo template: Next.js 16 · Auth.js v5 · Strapi 5 · Kubb · shadcn/ui  
-  `npm create next-strapi-starter my-app`
+- **[next-strapi-starter](https://github.com/Imba-Sharik/next-strapi-starter)** — full-stack monorepo template  
+Next.js 16 · Strapi 5 CMS · Auth.js v5 · Kubb (typed API) · shadcn/ui  
+Login, Register, typed API clients and FSD structure out of the box  
+`npm create next-strapi-starter my-app`
+
 
