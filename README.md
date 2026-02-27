@@ -18,4 +18,6 @@ Login, Register, typed API clients and FSD structure out of the box
 Deploy-ready: Vercel (frontend) + Railway (backend/PostgreSQL)  
 `npm create next-strapi-starter my-app`
 
-
+- **[collapsible-search](https://github.com/Imba-Sharik/collapsible-search)** — Airbnb-inspired filter bar component  
+  Collapses into a compact pill on scroll · shadcn/ui compatible  
+  Copy 3 files into your project — no npm package needed
