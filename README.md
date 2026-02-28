@@ -20,4 +20,4 @@ Deploy-ready: Vercel (frontend) + Railway (backend/PostgreSQL)
 
 - **[collapsible-search](https://github.com/Imba-Sharik/collapsible-search)** — Airbnb-inspired filter bar component  
   Collapses into a compact pill on scroll · shadcn/ui compatible  
-  Copy 3 files into your project — no npm package needed
+  Copy 3 files into your project — no npm package needed. [Live Demo](https://collapsible-search.vercel.app/)
